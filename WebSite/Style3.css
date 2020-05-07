@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+header
+{
+    background-color: skyblue
+        ;
+    height: 130px;
+    background-size: cover;
+}
+
+
+ul
+{
+    float: right;
+    list-style-type: none;
+    margin-top: 50px;
+}
+
+
+ul li
+{
+    display: inline-block;
+}
+
+
+ul li a
+{
+    text-decoration: none;
+    color: dodgerblue;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.6s ease;
+}
+
+
+ul li a:hover
+{
+    background-color: #fff;
+    color: cornflowerblue;
+}
+
+
+.logo img
+{
+    float: left;
+    width: 150px;
+    height: auto;
+    margin-top: 25px
+}
+
+
+ul li.active a
+{
+    background-color: #fff;
+    color: bl;
+}
+
+
+.main
+{
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+h1
+{
+    margin-top: 50px;
+    text-align: center;
+    color: blanchedalmond
+    
+}
+
+
+body
+{
+    background-color: deepskyblue
+}
+
+
+p
+{
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+}
+
+
+.ue
+{
+    height: 100px;
+    width: 150px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+.navodila
+{
+    color: blanchedalmond;
+}
+
+
+.plosca
+{
+  height: 200px;
+    width: 250px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+.svetloba
+{
+   height: 200px;
+    width: 250px;
+    margin-top: 15px;
+    margin-bottom: 15px; 
+}
+
+
+.polje
+{
+    height: 200px;
+    width: 250px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+.programiranje
+{
+    height: 200px;
+    width: 250px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+.kocka
+{
+    height: 200px;
+    width: 250px;
+    margin-top: 15px;
+    margin-bottom: 15px; 
+}
+
+
+.konec
+{
+    margin-bottom: 30px
+}
+
